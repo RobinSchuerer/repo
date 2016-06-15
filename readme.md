@@ -1,6 +1,8 @@
 # Wicket, WebSockets, RxJava und Spring Boot
 Dieses Projekt zeigt, wie durch das Backend alle verbundenen Clients benachrichtigt werden können.
 
+Dies ist eine Spring Boot Anwendung, d.h. sie kann direkt über die  Klasse "Application" gestartet werden.
+
 ## RxJava
 RxJava ist die Java Implementierung von ReactiveX. Mit dieser Bibliothek kann man auf sehr elegante Art und Weise
 Schnittstellen zwischen GUI und Backend entwerfen. Dabei wird dem Frontend ein Event-Stream zur Verfügung gestellt,
